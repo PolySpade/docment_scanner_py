@@ -1,3 +1,3 @@
+python -m venv venv
 .\venv\Scripts\activate
-pip install opencv-python
-pip install numpy
+pip install -r requirements.txt
